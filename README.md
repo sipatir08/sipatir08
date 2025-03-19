@@ -10,6 +10,11 @@
 
 ###
 
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <p align="left">📚 Still learning, still growing, still debugging at 2 AM.<br>☕ Fueled by caffeine, nicotin and stack overflow wisdom.<br>📬 Hit me up if you wanna build something cool together!</p>
 
 ###

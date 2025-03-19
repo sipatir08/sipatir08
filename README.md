@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif" height="150" />
+<img align="right" height="150" style="vertical-align: middle;" src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif" />
 
 
 ###

@@ -6,18 +6,21 @@
 
 ###
 
-<p align="left">🔹 Currently grinding Golang, Supabase, and all things backend.<br>🔹 Obsessed with APIs, databases, and making things run smooth af.<br>🔹 Breaking production? Nah, just stress testing (trust me, bro).</p>
-
-###
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif"  />
-
-
-###
-
-<p align="left">📚 Still learning, still growing, still debugging at 2 AM.<br>☕ Fueled by caffeine, nicotin and stack overflow wisdom.<br>📬 Hit me up if you wanna build something cool together!</p>
-
-###
+<div style="display: flex; align-items: center;">
+  <div>
+    <p align="left">
+      🔹 Currently grinding Golang, Supabase, and all things backend.<br>
+      🔹 Obsessed with APIs, databases, and making things run smooth af.<br>
+      🔹 Breaking production? Nah, just stress testing (trust me, bro).
+    </p>
+    <p align="left">
+      📚 Still learning, still growing, still debugging at 2 AM.<br>
+      ☕ Fueled by caffeine, nicotine, and stack overflow wisdom.<br>
+      📬 Hit me up if you wanna build something cool together!
+    </p>
+  </div>
+  <img align="right" height="150" src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfthr.08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patirnibos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fathir080604@gmail.com)

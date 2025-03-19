@@ -74,5 +74,3 @@
 [![](https://visitcount.itsvg.in/api?id=sipatir08&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-yang bagian gif nya tolong tinggi nya setarakan, dari kata-kata currently, sampai together

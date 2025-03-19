@@ -11,7 +11,7 @@
 ###
 
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif"  />
+<img align="right" height="120" src="https://raw.githubusercontent.com/sipatir08/image/master/image/Pheistyy's%20GIFs%20on%20Tenor.gif"  />
 
 ###
 
